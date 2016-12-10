@@ -1,0 +1,216 @@
+name: Victor Kléber Santos Leite Melo
+home: victormelo.me
+email: victorklbr@gmail.com
+github: github.com/victormelo
+summary:
+ text: I am a Software Developer based on Recife, Pernambuco, Brazil.
+  I am proficient on several programming languages and web development frameworks (mostly self-taught).
+  I am also a Machine Learning and Computer Vision master degree student, working specifically on the application of Deep Learning approaches to Handwritten Signature Verification.
+
+skills-disclaimer: Skills with <= 3 stars suggest that I am not that experienced or need some research
+  before the get going. However, if you give me a week or a weekend I can do pretty much whatever is "technically" possible.
+
+skills:
+ - name: Languages
+   items:
+    - name: Python
+      proficiency: 5
+    - name: Javascript
+      proficiency: 5
+    - name: Matlab
+      proficiency: 5
+    - name: PHP
+      proficiency: 5
+    - name: Java
+      proficiency: 4
+    - name: SQL
+      proficiency: 3
+    - name: Ruby
+      proficiency: 2
+
+ - name: Frameworks/libs
+   items:
+    - name: Django
+      proficiency: 5
+    - name: numpy
+      proficiency: 5
+    - name: scipy
+      proficiency: 5
+    - name: scikit-{learn, image}
+      proficiency: 5
+    - name: OpenCV
+      proficiency: 5
+    - name: Tensorflow
+      proficiency: 4
+    - name: Nodejs
+      proficiency: 3
+
+ - name: Frontend
+   items:
+    - name: highcharts.js
+      proficiency: 4
+    - name: jQuery
+      proficiency: 4
+    - name: AngularJS
+      proficiency: 2
+
+ - name: Standards/Architectures
+   items:
+    - name: HTML5
+      proficiency: 5
+    - name: RESTful APIs
+      proficiency: 5
+    - name: CSS3
+      proficiency: 3
+
+ - name: Testing
+   items:
+    - name: Selenium
+      proficiency: 4
+    - name: unittest
+      proficiency: 3
+
+
+ - name: Databases
+   items:
+    - name: MySQL
+      proficiency: 5
+    - name: MongoDB
+      proficiency: 3
+    - name: PostgreSQL
+      proficiency: 3
+
+ - name: Platforms
+   items:
+    - name: Digital Ocean
+      proficiency: 5
+
+ - name: Mobile
+   items:
+    - name: Ionic2
+      proficiency: 2
+
+ - name: Misc.
+   items:
+    - name: Git
+      proficiency: 5
+    - name: Unix-like systems
+      proficiency: 5
+
+idioms:
+  - idiom: Portuguese (Brazilian)
+    fluency: Native
+  - idiom: English
+    fluency: Advanced
+
+education:
+ colleges:
+  - name: Federal Rural University of Pernambuco
+    link: http://uast.ufrpe.br/
+    year: 2015
+    degree: BSc in Information Systems
+    gpa: 8.89/10
+    complementar:
+      - text: Teacher Assistant of Introduction to Programming for 2 years (2011-2013)
+      - text: Scientific Initiation at Museu de Oceanografia of UAST for 1 year (2013-2014)
+      - text: 'Main courses: Web Programming, Digital Image Processing and Software Architeture.'
+
+  - name: University of Pernambuco
+    link: http://mestrado.ecomp.poli.br/
+    year: 2015 - present (to be finished in 2017.2)
+    degree: MSc in Computer Engineering
+    gpa: 10/10
+    complementar:
+      - text: 'Research area: Computational Intelligence, Deep Learning, Machine Learning, Pattern Recognition'
+      - text: 'Reserach theme: Automatic Handwritten Signature Verification'
+      - text: 'Main courses: Pattern Recognition, Computational Intelligence, Digital Image Processing and Computer Vision.'
+
+certsAndAwards:
+ - name: 'TOEFL ITP: 557/627 (B2 CEFR Level)'
+   year: 2013
+ - name: Academic Honour (awarded to the best Information Systems student)
+   year: 2015
+
+
+professional:
+ - name: Bomboniere Ponto Doce
+   link: #
+   location: Serra Talhada, PE
+   start: 04/2013
+   end: 04/2014
+   title: Information Technology Support
+   summary: Computer and Information Systems Maintenance
+
+ - name: Freelances
+   link: #
+   location: Remote
+   start: 05/2014
+   end: present
+   title: Web Developer
+   summary: Developping solutions to several customers mainly related to Web development. My primary source to find clients is 99Freelas, you can view <a href="https://www.99freelas.com.br/user/victormelo">my profile here</a>.
+   projects:
+
+    - name: Graphical Visualization of Enviromental Data
+      description: Provided a user-friendly interface to the creation of highcharts graphics to help the analysis of enviromental data.
+      skills:
+       - Javascript
+       - jQuery
+       - highcharts.js
+       - Git
+
+    - name: Notícias em Áudio (Audio News)
+      link: http://noticiasemaudio.com.br
+      description: 'Provided the solution for the automation of the capture, generation and sharing of news converted to audio.
+      The text is converted using third party Text to Speech APIs. <a href="http://noticiasemaudio.com.br">http://noticiasemaudio.com.br</a>'
+      skills:
+       - Python
+       - Django
+       - Javascript
+       - RESTful APIs
+       - Git
+       - DigitalOcean
+
+    - name: Promocon
+      link: www.promocon.com.br/
+      description: 'Currently working on this project. This application is an e-commerce offer aggregator. My role on this project is to provide new funcionalities to the evolution of the application.'
+      skills:
+       - Javascript
+       - jQuery
+       - PHP
+       - RESTful APIs
+       - Git
+
+complementarFormation:
+ - title: Centro Cultural Anglo Americano (CCAA)
+   subtitle: Oral and Written Communication Course Level 7 and Level 8
+   year: 2011 - 2012
+
+ - title: CodeSchool
+   subtitle: SHAPING UP WITH ANGULAR.JS
+
+ - title: Coursera
+   subtitle: Machine Learning
+
+
+openSourceProjects:
+ - title: k-nearest neighbors
+   link: https://github.com/victormelo/knn-rp
+   description: A Python implementation of the simple supervised learning algorithm k-nearest neighbors.
+
+ - title: Particle Swarm Optimization
+   link: https://github.com/victormelo/pso
+   description: A not-finished but working implementation of the metaheuristic Particle Swarm Optimization implemented in Python.
+
+ - title: ppgec-abntex2
+   link: https://github.com/victormelo/ppgec-abntex2
+   description: A customization of the package abnTeX2 (ABNT is a brazillian association that creates techinical norms for academic writing) for the PPGEC-POLI dissertations.
+
+ - title: cv-toolbox
+   link: https://github.com/victormelo/cv_toolbox
+   description: A bunch of unorganized scripts that I used during the development of the final project for the Computer Vision course I took at POLI.
+
+ - title: redjit
+   link: https://github.com/victormelo/redjit
+   description: I am currently working on this project. My idea is to "clone" popular webapps (and eventually write a how-to guide detailing the project) in Django during my idle time, in order to prevent that my Django skills get "rusty".
+
+
