@@ -70,7 +70,7 @@
 
     <h5>{{ skill.name }}</h5>
     {% for item in skill.items %}
-    <span class="label label-default skills">
+    <span class="label label-primary skills">
         {{ item.name }}
         {% for num in (1...5) %}
             {% if num <= item.proficiency %}
@@ -166,7 +166,7 @@
 
                 <p>
                     {% for skill in project.skills %}
-                    <span class="label label-default skills"> {{ skill }} </span>
+                    <span class="label label-primary skills"> {{ skill }} </span>
                     {% endfor %}
                 </p>
                 <br/>
