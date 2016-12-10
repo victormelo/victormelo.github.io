@@ -181,15 +181,14 @@ professional:
        - Git
 
 complementarFormation:
- - title: Centro Cultural Anglo Americano (CCAA)
-   subtitle: Oral and Written Communication Course Level 7 and Level 8
-   year: 2011 - 2012
+ - provider: Centro Cultural Anglo Americano (CCAA)
+   name: Oral and Written Communication Course Level 7 and Level 8
 
- - title: CodeSchool
-   subtitle: SHAPING UP WITH ANGULAR.JS
+ - provider: CodeSchool
+   name: SHAPING UP WITH ANGULAR.JS
 
- - title: Coursera
-   subtitle: Machine Learning
+ - provider: Coursera
+   name: Machine Learning
 
 
 openSourceProjects:
