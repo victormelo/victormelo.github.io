@@ -3,12 +3,9 @@ home: victormelo.me
 email: victorklbr@gmail.com
 github: github.com/victormelo
 summary:
- text: I am a Master's degree Student at the University of Pernambuco and a Software Developer based on Recife, Pernambuco, Brazil.
+ text: I am a Master's degree Student at the University of Pernambuco and a Data Scientist/Software Developer based on Recife, Pernambuco, Brazil.
   I am proficient on several programming languages and web development frameworks (mostly self-taught).
-  I am also a Machine Learning and Computer Vision master degree student, working specifically on the application of Deep Learning approaches to Handwritten Signature Verification.
-
-skills-disclaimer: Skills with <= 3 stars suggest that I am not that experienced or need some research
-  before the get going. However, if you give me a week or a weekend I can do pretty much whatever is "technically" possible.
+  In my MSc project I am working specifically on the application of Deep Learning approaches to Handwritten Signature Verification.
 
 skills:
  - name: Languages
@@ -20,9 +17,9 @@ skills:
     - name: Matlab
       proficiency: 5
     - name: PHP
-      proficiency: 5
-    - name: Java
       proficiency: 4
+    - name: Java
+      proficiency: 3
     - name: SQL
       proficiency: 3
     - name: Ruby
@@ -42,8 +39,8 @@ skills:
       proficiency: 5
     - name: Tensorflow
       proficiency: 4
-    - name: Nodejs
-      proficiency: 3
+    - name: Keras
+      proficiency: 4
 
  - name: Frontend
    items:
@@ -66,7 +63,7 @@ skills:
  - name: Testing
    items:
     - name: Selenium
-      proficiency: 4
+      proficiency: 3
     - name: unittest
       proficiency: 3
 
@@ -112,7 +109,7 @@ education:
     gpa: 8.89/10
     complementar:
       - text: Teacher Assistant of Introduction to Programming for 2 years (2011-2013)
-      - text: Scientific Initiation at Museu de Oceanografia of UAST for 1 year (2013-2014)
+      - text: Scientific Initiation at "Museu de Oceanografia da UAST" (UAST Oceanography Museum) for 1 year (2013-2014)
       - text: 'Main courses: Web Programming, Digital Image Processing and Software Architeture.'
 
   - name: University of Pernambuco
@@ -123,35 +120,35 @@ education:
     complementar:
       - text: 'Research area: Computational Intelligence, Deep Learning, Machine Learning, Pattern Recognition'
       - text: 'Reserach theme: Automatic Handwritten Signature Verification'
+      - text: 'Teacher Assistant of Computer Vision for 6 months (2017)'
       - text: 'Main courses: Pattern Recognition, Computational Intelligence, Digital Image Processing and Computer Vision.'
-
 certsAndAwards:
  - name: 'TOEFL ITP: 557/627 (B2 CEFR Level)'
    year: 2013
- - name: Academic Honour (awarded to the best Information Systems student)
+ - name: Academic Honour (awarded to the best UFRPE/UAST Information Systems student)
    year: 2015
 
 
 professional:
- - name: Bomboniere Ponto Doce
-   link: #
-   location: Serra Talhada, PE
-   start: 04/2013
-   end: 04/2014
-   title: Information Technology Support
-   summary: Computer and Information Systems Maintenance
+ - name: Deeper Systems
+   link: http://deepersystems.com
+   location: Remote
+   start: 01/2017
+   end: present
+   title: Data Scientist
+   summary: Working on real world businesses problems developping and experimenting practical Deep Learning solutions. The tech I am dealing with is mostly Python, OpenCV and Keras.
 
- - name: Freelances
+ - name: Freelance Works
    link: #
    location: Remote
    start: 05/2014
    end: present
-   title: Web Developer
-   summary: Developping solutions to several customers mainly related to Web development. My primary source to find clients is 99Freelas, you can view <a href="https://www.99freelas.com.br/user/victormelo">my profile here (in portuguese)</a>.
+   title: Web Development
+   summary: I have developped solutions to several customers mainly related to Web development. My primary source to find clients is 99Freelas, you can view <a href="https://www.99freelas.com.br/user/victormelo">my profile here (in portuguese)</a>.
    projects:
 
     - name: Graphical Visualization of Enviromental Data
-      description: Provided a user-friendly interface to the creation of highcharts graphics to help the analysis of enviromental data.
+      description: Provided a user-friendly interface for the creation of highcharts graphics to help the analysis of enviromental data.
       skills:
        - Javascript
        - jQuery
@@ -170,14 +167,13 @@ professional:
        - Git
        - DigitalOcean
 
-    - name: Promocon
-      link: www.promocon.com.br/
-      description: 'Currently working on this project. This application is an e-commerce offer aggregator. My role on this project is to provide new funcionalities to the evolution of the application.'
+    - name: Rotative Parking System
+      link: http://www.goedertsistemas.com.br/
+      description: "This system is used for the management of rotative parking lots."
       skills:
+       - Django
        - Javascript
        - jQuery
-       - PHP
-       - RESTful APIs
        - Git
 
 complementarFormation:
