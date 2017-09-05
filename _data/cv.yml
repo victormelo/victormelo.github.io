@@ -130,52 +130,13 @@ certsAndAwards:
 
 
 professional:
- - name: Deeper Systems
-   link: http://deepersystems.com
-   location: Remote
-   start: 01/2017
+ - name: Stefanini Document Solutions
+   link: http://documentsolutions.com.br
+   location: Recife, Brazil
+   start: 04/2017
    end: present
-   title: Data Scientist
-   summary: Working on real world businesses problems developping and experimenting practical Deep Learning solutions. The tech I am dealing with is mostly Python, OpenCV and Keras.
-
- - name: Freelance Works
-   link: #
-   location: Remote
-   start: 05/2014
-   end: present
-   title: Web Development
-   summary: I have developped solutions to several customers mainly related to Web development. My primary source to find clients is 99Freelas, you can view <a href="https://www.99freelas.com.br/user/victormelo">my profile here (in portuguese)</a>.
-   projects:
-
-    - name: Graphical Visualization of Enviromental Data
-      description: Provided a user-friendly interface for the creation of highcharts graphics to help the analysis of enviromental data.
-      skills:
-       - Javascript
-       - jQuery
-       - highcharts.js
-       - Git
-
-    - name: Notícias em Áudio (Audio News)
-      link: http://noticiasemaudio.com.br
-      description: 'Provided the solution for the automation of the capture, generation and sharing of news converted to audio.
-      The text is converted using third party Text to Speech APIs. <a href="http://noticiasemaudio.com.br">http://noticiasemaudio.com.br</a>'
-      skills:
-       - Python
-       - Django
-       - Javascript
-       - RESTful APIs
-       - Git
-       - DigitalOcean
-
-    - name: Rotative Parking System
-      link: http://www.goedertsistemas.com.br/
-      description: "This system is used for the management of rotative parking lots."
-      skills:
-       - Django
-       - Javascript
-       - jQuery
-       - Git
-
+   title: R&D
+  
 complementarFormation:
  - provider: Centro Cultural Anglo Americano (CCAA)
    name: Oral and Written Communication Course Level 7 and Level 8
@@ -185,27 +146,5 @@ complementarFormation:
 
  - provider: Coursera
    name: Machine Learning
-
-
-openSourceProjects:
- - title: k-nearest neighbors
-   link: https://github.com/victormelo/knn-rp
-   description: A Python implementation of the simple supervised learning algorithm k-nearest neighbors.
-
- - title: Particle Swarm Optimization
-   link: https://github.com/victormelo/pso
-   description: A not-finished but working implementation of the metaheuristic Particle Swarm Optimization implemented in Python.
-
- - title: ppgec-abntex2
-   link: https://github.com/victormelo/ppgec-abntex2
-   description: A customization of the package abnTeX2 (ABNT is a brazillian association that creates techinical norms for academic writing) for the PPGEC-POLI dissertations.
-
- - title: cv-toolbox
-   link: https://github.com/victormelo/cv_toolbox
-   description: A bunch of unorganized scripts that I used during the development of the final project for the Computer Vision course I took at POLI.
-
- - title: redjit
-   link: https://github.com/victormelo/redjit
-   description: I am currently working on this project. My idea is to "clone" popular webapps (and eventually write a how-to guide detailing the project) in Django during my idle time, in order to prevent that my Django skills get "rusty".
 
 
