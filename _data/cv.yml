@@ -3,10 +3,8 @@ home: victormelo.me
 email: victorklbr@gmail.com
 github: github.com/victormelo
 summary:
- text: I am a Master's degree Student at the University of Pernambuco and a Data Scientist/Software Developer based on Recife, Pernambuco, Brazil.
-  I am proficient on several programming languages and web development frameworks (mostly self-taught).
-  In my MSc project I am working specifically on the application of Deep Learning approaches to Handwritten Signature Verification.
-
+ text: MSc in Computer Engineering from University of Pernambuco. BSc in Information Systems from Rural Federal University of Pernambuco
+ 
 skills:
  - name: Languages
    items:
